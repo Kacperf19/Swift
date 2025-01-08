@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Jan Kowalski",
+    "email": "jkowalski@gmail.com",
+    "phone": "111-222-333"
+  },
+  {
+    "name": "Anna Nowak",
+    "email": "anna.nowak@gmail.com",
+    "phone": "444-555-666"
+  }
+]
